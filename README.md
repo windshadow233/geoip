@@ -18,10 +18,10 @@
 > 如果无法访问域名 `raw.githubusercontent.com`，可以使用第二个地址（`cdn.jsdelivr.net`），但是内容更新会有 12 小时的延迟。
 
 - **geoip.dat**：
-  - [https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat](https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat)
+  - [https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat](https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat)
   - [https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/geoip.dat](https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/geoip.dat)
 - **geoip.dat.sha256sum**：
-  - [https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat.sha256sum](https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat.sha256sum)
+  - [https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat.sha256sum](https://raw.githubusercontent.com/windshadow233/geoip/release/geoip.dat.sha256sum)
   - [https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/geoip.dat.sha256sum](https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/geoip.dat.sha256sum)
 
 ## 参考配置
